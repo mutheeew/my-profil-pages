@@ -52,10 +52,6 @@ a {
   font-weight: bold;
 }
 
-.logo:hover {
-  transform: scaleX(-1);
-}
-
 .nav-right:hover,
 .nav-right:active {
   background: rgb(67, 67, 67);
